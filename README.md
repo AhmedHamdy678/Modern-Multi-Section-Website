@@ -7,7 +7,7 @@
 
 ## 🔗 Live Demo
 > [View Live Demo](https://github.com/AhmedHamdy678/Modern-Multi-Section-Website/)  
-*(Please replace `#` with your live deployment URL)*
+
 
 ## 📖 Overview
 
@@ -92,7 +92,7 @@ This project is licensed under the [MIT License](LICENSE).
 If you have any questions or suggestions, feel free to reach out:
 
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
+- **LinkedIn**: https://www.linkedin.com/in/ahmed-hamdy-881b1826a/
 - **GitHub**: (https://github.com/AhmedHamdy678)
 
 ---
